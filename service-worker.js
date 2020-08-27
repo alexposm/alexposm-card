@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alexposm-card/precache-manifest.09ec35a51086b16241e7b6bf3209fbf2.js"
+  "/alexposm-card/precache-manifest.e32f53bbb9f2573fdb999dc66f9a44c7.js"
 );
 
 self.addEventListener('message', (event) => {

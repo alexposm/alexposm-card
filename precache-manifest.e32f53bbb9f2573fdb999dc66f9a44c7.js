@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "787279b07206207607fb39ceb131ef4d",
+    "revision": "cc3111d81a46f29b654f3320d6052ca9",
     "url": "/alexposm-card/index.html"
   },
   {
-    "revision": "fa1407538962309e1532",
-    "url": "/alexposm-card/static/css/main.48efa93d.chunk.css"
+    "revision": "071139b3cc8bc79eaec1",
+    "url": "/alexposm-card/static/css/main.75fb4e69.chunk.css"
   },
   {
     "revision": "327922a5db58050e2431",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexposm-card/static/js/2.98128467.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa1407538962309e1532",
+    "revision": "071139b3cc8bc79eaec1",
     "url": "/alexposm-card/static/js/main.67b11155.chunk.js"
   },
   {

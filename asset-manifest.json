@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alexposm-card/static/css/main.48efa93d.chunk.css",
+    "main.css": "/alexposm-card/static/css/main.75fb4e69.chunk.css",
     "main.js": "/alexposm-card/static/js/main.67b11155.chunk.js",
     "main.js.map": "/alexposm-card/static/js/main.67b11155.chunk.js.map",
     "runtime-main.js": "/alexposm-card/static/js/runtime-main.c5afa433.js",
@@ -8,16 +8,16 @@
     "static/js/2.98128467.chunk.js": "/alexposm-card/static/js/2.98128467.chunk.js",
     "static/js/2.98128467.chunk.js.map": "/alexposm-card/static/js/2.98128467.chunk.js.map",
     "index.html": "/alexposm-card/index.html",
-    "precache-manifest.09ec35a51086b16241e7b6bf3209fbf2.js": "/alexposm-card/precache-manifest.09ec35a51086b16241e7b6bf3209fbf2.js",
+    "precache-manifest.e32f53bbb9f2573fdb999dc66f9a44c7.js": "/alexposm-card/precache-manifest.e32f53bbb9f2573fdb999dc66f9a44c7.js",
     "service-worker.js": "/alexposm-card/service-worker.js",
-    "static/css/main.48efa93d.chunk.css.map": "/alexposm-card/static/css/main.48efa93d.chunk.css.map",
+    "static/css/main.75fb4e69.chunk.css.map": "/alexposm-card/static/css/main.75fb4e69.chunk.css.map",
     "static/js/2.98128467.chunk.js.LICENSE.txt": "/alexposm-card/static/js/2.98128467.chunk.js.LICENSE.txt",
     "static/media/bg.jpg": "/alexposm-card/static/media/bg.07147a57.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5afa433.js",
     "static/js/2.98128467.chunk.js",
-    "static/css/main.48efa93d.chunk.css",
+    "static/css/main.75fb4e69.chunk.css",
     "static/js/main.67b11155.chunk.js"
   ]
 }
