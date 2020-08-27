@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alexposm-card/static/css/main.75fb4e69.chunk.css",
-    "main.js": "/alexposm-card/static/js/main.67b11155.chunk.js",
-    "main.js.map": "/alexposm-card/static/js/main.67b11155.chunk.js.map",
-    "runtime-main.js": "/alexposm-card/static/js/runtime-main.c5afa433.js",
-    "runtime-main.js.map": "/alexposm-card/static/js/runtime-main.c5afa433.js.map",
-    "static/js/2.98128467.chunk.js": "/alexposm-card/static/js/2.98128467.chunk.js",
-    "static/js/2.98128467.chunk.js.map": "/alexposm-card/static/js/2.98128467.chunk.js.map",
-    "index.html": "/alexposm-card/index.html",
-    "precache-manifest.e32f53bbb9f2573fdb999dc66f9a44c7.js": "/alexposm-card/precache-manifest.e32f53bbb9f2573fdb999dc66f9a44c7.js",
-    "service-worker.js": "/alexposm-card/service-worker.js",
-    "static/css/main.75fb4e69.chunk.css.map": "/alexposm-card/static/css/main.75fb4e69.chunk.css.map",
-    "static/js/2.98128467.chunk.js.LICENSE.txt": "/alexposm-card/static/js/2.98128467.chunk.js.LICENSE.txt",
-    "static/media/bg.jpg": "/alexposm-card/static/media/bg.07147a57.jpg"
+    "main.css": "/card/static/css/main.75fb4e69.chunk.css",
+    "main.js": "/card/static/js/main.22de447f.chunk.js",
+    "main.js.map": "/card/static/js/main.22de447f.chunk.js.map",
+    "runtime-main.js": "/card/static/js/runtime-main.5bc71581.js",
+    "runtime-main.js.map": "/card/static/js/runtime-main.5bc71581.js.map",
+    "static/js/2.d1f04c22.chunk.js": "/card/static/js/2.d1f04c22.chunk.js",
+    "static/js/2.d1f04c22.chunk.js.map": "/card/static/js/2.d1f04c22.chunk.js.map",
+    "index.html": "/card/index.html",
+    "precache-manifest.8482cb800e5e589f30f7ad8ef6b3c09f.js": "/card/precache-manifest.8482cb800e5e589f30f7ad8ef6b3c09f.js",
+    "service-worker.js": "/card/service-worker.js",
+    "static/css/main.75fb4e69.chunk.css.map": "/card/static/css/main.75fb4e69.chunk.css.map",
+    "static/js/2.d1f04c22.chunk.js.LICENSE.txt": "/card/static/js/2.d1f04c22.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/card/static/media/bg.07147a57.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5afa433.js",
-    "static/js/2.98128467.chunk.js",
+    "static/js/runtime-main.5bc71581.js",
+    "static/js/2.d1f04c22.chunk.js",
     "static/css/main.75fb4e69.chunk.css",
-    "static/js/main.67b11155.chunk.js"
+    "static/js/main.22de447f.chunk.js"
   ]
 }
