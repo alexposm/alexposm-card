@@ -2,7 +2,7 @@
   "name": "alexposm-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://alexposm.github.io/alexposm-card",
+  "homepage": "https://alexposm.github.io/alexposm-card",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

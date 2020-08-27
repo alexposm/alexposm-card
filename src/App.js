@@ -1,10 +1,11 @@
 import React from 'react';
+import bg from './bg.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <div className="bg" />
+      <img src={bg} className="bg" alt="alexposm" />
       <div className="username">Alexposm</div>
     </div>
   );
